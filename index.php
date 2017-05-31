@@ -9,8 +9,8 @@ Enabling JWT single sign-on in your Agile CRM :
 Click on Admin Settings Preferences tabs.
 Click on Single Sign-On tab
 Enter Remote Login URL, the url where Agile CRM SSO will redirect once SSO enable.
-Submit form and hence SSO is enable.
-You can desable SSO by deleting above configuration.
+Save to enable SSO
+You can disable SSO by deleting above configuration.
 
 If you have issues signing in, go to https://mycompany.agilecrm.com/login/normal to bypass SSO
 
